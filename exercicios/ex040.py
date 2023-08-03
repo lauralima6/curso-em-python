@@ -7,3 +7,4 @@ if media >= 5 and media < 7:
     print(f'Você irá para a recuperação! Sua média foi {media}')
 if media >= 7:
     print(f'Aprovado! Sua média foi {media}')
+    
